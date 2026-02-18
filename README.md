@@ -2,18 +2,21 @@
 
 A modern news web application built with **React + Vite + TailwindCSS** 🚀
 
-## 🌟 Features
+## ✨ Features
 
-✔ React frontend with fast performance  
-✔ TailwindCSS for styling  
-✔ Vite for fast builds  
-✔ Easy to customize news sections 
+- 📰 Category-based News Sections  
+- ⚡ Fast Loading with Vite  
+- 🎨 Clean and Modern UI  
+- 📱 Fully Responsive (Mobile Friendly)  
+- 🔄 Dynamic Content Rendering  
+- 🧭 Smooth Navigation with Navbar 
 
 ## 🛠 Tech Stack
 
-- React
-- Vite
-- TailwindCSS
+- **Frontend:** React.js  
+- **Build Tool:** Vite  
+- **Styling:** Tailwind CSS   
+- **Deployment:** Vercel
 
 - ## 📦 Installation
 - 1. For Repository clone
@@ -31,7 +34,7 @@ A modern news web application built with **React + Vite + TailwindCSS** 🚀
   Open http://localhost:5173 with your browser to see the result.
 
   ## 🚀 **Deployment**
-This project is deployed on **Vercel**.
+This project is successfully deployed on **Vercel**.
 
 **Live Link:**  
 https://dg-news-ten.vercel.app/
